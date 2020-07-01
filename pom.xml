@@ -17,7 +17,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <mysql.version>8.0.11</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <rabbit.version>5.7.0</rabbit.version>
         <amqp.version>2.1.4.RELEASE</amqp.version>
         <mybatisplus.version>3.1.1</mybatisplus.version>
